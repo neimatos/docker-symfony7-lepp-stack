@@ -1,4 +1,4 @@
-# Minimal Docker configuration for LEPP stack with Symfony 7.0+ for development.
+# Docker configuration for LEPP stack + Symfony 7.0+ for development.
 
 - NGINX 1.26+
 - PostgreSQL 17.2+
