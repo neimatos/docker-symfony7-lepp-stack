@@ -46,6 +46,8 @@ docker-compose up -d --build
 
 5. Open `http://localhost` in your browser, you should see the Symfony 7's welcome page.
 
+![image](https://github.com/user-attachments/assets/d6158b9b-081e-4c64-8e75-a601b535c3a8)
+
 ## Using
 
 ### Using Docker Compose
